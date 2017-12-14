@@ -22,4 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-[Kidney Beans Australia](https://google.com) 
